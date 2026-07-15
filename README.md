@@ -1,45 +1,37 @@
-# Hi, I'm Ali Raza Saleem 👋
+<div align="center">
 
-### Python Developer • AI Builder • BSCS Student
+# Ali Raza Saleem
 
-I build Python automation tools, AI applications, and productivity software. I enjoy solving real-world problems through code and documenting my learning journey.
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Python+Developer;AI+Builder;BSCS+Student;Building+Useful+Software;Learning+In+Public" />
 
----
+<br>
 
-## 🚀 Current Focus
+Python Developer • AI Builder • BSCS Student
 
-* Building AI Applications
-* Python Development
-* Automation Tools
-* FastAPI
-* Building in Public
+I build Python automation tools, AI applications, and productivity software while documenting my learning journey.
+
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Currently Building
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3\&logoColor=white)
+* AI Job Application Copilot
+* Python Automation Tools
+* AI Applications
+* Better Systems for Learning & Productivity
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alirazasaleem-1&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alirazasaleem-1&show_icons=true&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirazasaleem-1&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=alirazasaleem-1&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirazasaleem-1&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=alirazasaleem-1&hide_border=true" />
 </p>
 
 ---
@@ -48,7 +40,12 @@ I build Python automation tools, AI applications, and productivity software. I e
 
 ### 🤖 AI Job Application Copilot
 
-An AI-powered application that analyzes resumes against job descriptions, calculates match scores, identifies missing skills, suggests resume improvements, and generates interview questions.
+AI-powered resume analyzer that compares resumes against job descriptions and generates:
+
+* Match Scores
+* Missing Skills
+* Resume Improvements
+* Interview Questions
 
 🔗 Repository:
 https://github.com/alirazasaleem-1/ai-job-application-copilot
@@ -60,7 +57,7 @@ https://ai-job-application-copilot-nstaz4xyxukezxvqgezxyb.streamlit.app/
 
 ### 📈 GitHub Profile Analyzer
 
-A Python application that analyzes GitHub profiles and provides useful insights about repositories, activity, and developer statistics.
+Analyze GitHub profiles using Python and the GitHub API to generate useful repository and activity insights.
 
 🔗 Repository:
 https://github.com/alirazasaleem-1/github-profile-analyzer
@@ -69,7 +66,7 @@ https://github.com/alirazasaleem-1/github-profile-analyzer
 
 ### 🎮 Snake Water Gun Battle Arena
 
-A fun interactive Python game built with Streamlit featuring score tracking, multi-round gameplay, and computer-vs-player battles.
+A Streamlit-powered Python game with score tracking, multiple rounds, and computer-vs-player gameplay.
 
 🔗 Repository:
 https://github.com/alirazasaleem-1/snake-water-gun
@@ -81,7 +78,7 @@ https://snake-water-gun-emjswwxyqzq737zba3s9ic.streamlit.app/
 
 ### 🎓 CampusKit
 
-A collection of productivity tools for students including PDF utilities and academic helpers.
+A collection of useful tools for students including PDF utilities and academic helpers.
 
 🔗 Repository:
 https://github.com/alirazasaleem-1/Campus-Kit
@@ -91,14 +88,22 @@ https://alirazasaleem0000.pythonanywhere.com/
 
 ---
 
+## 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,git,github,html,css,js,vscode" />
+</p>
+
+---
+
 ## ✍️ Writing
 
-I occasionally write about projects, productivity, learning, and life as a Computer Science student.
+I occasionally write about learning, projects, productivity, and life as a Computer Science student.
 
 📚 Substack:
 https://alirazasaleem099.substack.com/
 
-Recent Posts:
+Recent Articles:
 
 * Same Place, Same Voices, Different Me
 * What Watching Ali Abdaal Made Me Realize
@@ -106,22 +111,24 @@ Recent Posts:
 
 ---
 
-## 🌐 Find Me Online
+## 🌐 Connect
 
-* GitHub: https://github.com/alirazasaleem-1
 * LinkedIn: https://www.linkedin.com/in/ali-raza-saleem-9906323a1/
+* Portfolio: https://alirazasaleem.netlify.app
 * Fiverr: https://www.fiverr.com/s/KerVD8V
 * YouTube: https://www.youtube.com/@AliRaza.Self-Improvement
 * X: https://x.com/AliRazaCreates
-* Instagram: https://www.instagram.com/alirazasaleem62/
-* TikTok: https://www.tiktok.com/@alirazasaleem27
 
 ---
 
 ## 📫 Contact
 
-**Email:** [alirazasaleem099@gmail.com](mailto:alirazasaleem099@gmail.com)
+**[alirazasaleem099@gmail.com](mailto:alirazasaleem099@gmail.com)**
 
 ---
 
-> Building useful software, learning in public, and improving one project at a time.
+<div align="center">
+
+### 💡 Building useful software, learning in public, and improving one project at a time.
+
+</div>
