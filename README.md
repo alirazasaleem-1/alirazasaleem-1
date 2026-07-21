@@ -1,109 +1,65 @@
 <div align="center">
 
-<!-- ===================== HERO ===================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:0F172A,45:2563EB,70:7C3AED,100:06B6D4&height=260&section=header&text=ALI%20RAZA%20SALEEM&fontSize=46&fontColor=FFFFFF&animation=twinkling&fontAlignY=36&desc=PYTHON%20%7C%20AI%20%7C%20AUTOMATION%20%7C%20BUILDING%20IN%20PUBLIC&descAlignY=61&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=180&section=header&text=ALI%20RAZA%20SALEEM&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=PYTHON%20%7C%20AI%20%7C%20AUTOMATION%20%7C%20BSCS&descAlignY=62&descSize=16" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=700&color=00E5FF&center=true&vCenter=true&width=850&lines=%3E+Booting+Ali+Raza's+Developer+Profile...;%3E+Python+Developer+%F0%9F%90%8D;%3E+AI+Application+Builder+%F0%9F%A4%96;%3E+Automation+Enthusiast+%E2%9A%A1;%3E+Machine+Learning+Explorer+%F0%9F%93%8A;%3E+BSCS+Student+%F0%9F%8E%93;%3E+Building+the+future+one+project+at+a+time+%F0%9F%9A%80" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/🟢%20SYSTEM%20STATUS-BUILDING-00FF88?style=for-the-badge" />
-<img src="https://img.shields.io/badge/⚡%20ENERGY-∞-00E5FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🧠%20MODE-LEARNING-7C3AED?style=for-the-badge" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=2563EB&center=true&vCenter=true&width=750&lines=Building+AI+Applications+with+Python+%F0%9F%90%8D;Automating+repetitive+work+%E2%9A%A1;Exploring+Machine+Learning+%F0%9F%A4%96;Turning+ideas+into+working+software+%F0%9F%9A%80;Learning+in+public+%F0%9F%8C%90" />
 
 <br><br>
 
 <a href="https://alirazasaleem-1.github.io/ali-raza-portfolio/">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-VISIT-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-2563EB?style=for-the-badge" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/ali-raza-saleem-9906323a1/">
-<img src="https://img.shields.io/badge/💼%20LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-0077B5?style=for-the-badge&logo=linkedin" />
 </a>
 &nbsp;
 <a href="https://www.fiverr.com/s/KerVD8V">
-<img src="https://img.shields.io/badge/💰%20FIVERR-HIRE%20ME-00C853?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💰%20HIRE%20ME-00C853?style=for-the-badge" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=alirazasaleem-1&label=PROFILE%20VISITORS&color=06B6D4&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=alirazasaleem-1&label=VISITORS&color=2563EB&style=for-the-badge" />
 
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-2c7c0f4b-7a4d-4b91-bc0c-0b6f9d9c2f77.gif" width="100%"/>
-
-</div>
-
----
-
-# 👋 HELLO, WORLD!
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=2563EB&center=true&vCenter=true&width=800&lines=I+am+Ali+Raza+Saleem+%F0%9F%91%8B;A+BSCS+Student+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;I+build+with+Python+%F0%9F%90%8D;I+explore+AI+%26+Machine+Learning+%F0%9F%A4%96;I+automate+boring+things+%E2%9A%A1;I+share+the+journey+publicly+%F0%9F%8C%90" />
-
-</div>
-
-<br>
-
-> **I don't just want to learn technology. I want to use it to build useful things. 🚀**
-
-<div align="center">
-
-### 🧠 MY CORE LOOP
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=%F0%9F%A7%A0+LEARN;%E2%86%93;%F0%9F%92%BB+BUILD;%E2%86%93;%F0%9F%8C%90+SHARE;%E2%86%93;%F0%9F%93%88+IMPROVE;%E2%86%93;%F0%9F%94%81+REPEAT" />
-
-</div>
-
----
-
-# ⚡ CURRENTLY RUNNING...
 
 <div align="center">
 
 <table>
 <tr>
 
-<td align="center" width="33%">
+<td width="33%" align="center">
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="120"/>
+### 🧠 LEARNING
 
-### 🐍 PYTHON
+**Machine Learning**
 
-Building tools, scripts, and applications.
-
-</td>
-
-<td align="center" width="33%">
-
-<img src="https://media.giphy.com/media/5Lmn42BCOy99RaGRP7/giphy.gif" width="120"/>
-
-### 🤖 AI / ML
-
-Learning and building intelligent systems.
+🟢 Active
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" align="center">
 
-<img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="120"/>
+### 🛠️ BUILDING
 
-### ⚙️ AUTOMATION
+**AI Applications**
 
-Making repetitive work disappear.
+🔵 Active
+
+</td>
+
+<td width="33%" align="center">
+
+### 🌐 SHARING
+
+**Learning in Public**
+
+🟣 Active
 
 </td>
 
@@ -114,17 +70,83 @@ Making repetitive work disappear.
 
 ---
 
-# 🧭 MY DEVELOPER EVOLUTION
+# 👋 Hey, I'm Ali
+
+I'm a **BS Computer Science student at the University of Agriculture Faisalabad** who enjoys turning ideas into practical software.
+
+I build with **Python**, explore **AI and Machine Learning**, automate repetitive tasks, and document my journey publicly.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=900&color=7C3AED&center=true&vCenter=true&width=850&lines=%F0%9F%8E%93+BSCS+STUDENT;%E2%86%93;%F0%9F%90%8D+PYTHON+DEVELOPER;%E2%86%93;%E2%9A%99%EF%B8%8F+AUTOMATION+BUILDER;%E2%86%93;%F0%9F%93%8A+DATA+%26+ML+EXPLORER;%E2%86%93;%F0%9F%A4%96+AI+APPLICATION+BUILDER;%E2%86%93;%F0%9F%9A%80+FUTURE+PRODUCT+BUILDER" />
+### 🔁 My Development Loop
+
+**🧠 Learn** → **💻 Build** → **🌐 Share** → **📈 Improve** → **🔁 Repeat**
 
 </div>
 
 ---
 
-# 🛠️ MY DIGITAL TOOLBOX
+# 🎯 CURRENTLY FOCUSED ON
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🤖 AI APPLICATIONS
+
+Building practical applications that use AI to solve real-world problems.
+
+</td>
+
+<td width="50%">
+
+### 🐍 PYTHON AUTOMATION
+
+Creating tools that automate repetitive work and workflows.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📊 MACHINE LEARNING
+
+Learning the fundamentals and building practical ML projects.
+
+</td>
+
+<td width="50%">
+
+### 🚀 BUILDING IN PUBLIC
+
+Sharing projects, lessons, progress, and experiments.
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# ⚡ CURRENT MISSION
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=2563EB&center=true&vCenter=true&width=700&lines=Become+better+at+Python+%F0%9F%90%8D;Build+useful+AI+applications+%F0%9F%A4%96;Master+Machine+Learning+%F0%9F%93%8A;Create+real-world+software+%F0%9F%92%BB;Build+a+better+future+one+project+at+a+time+%F0%9F%9A%80" />
+
+</div>
+
+---
+
+# 🛠️ MY TOOLBOX
 
 <div align="center">
 
@@ -132,7 +154,11 @@ Making repetitive work disappear.
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=Loading+skills...;%5B++++++++++++++%5D+100%25;Python+%E2%9C%85;FastAPI+%E2%9C%85;Pandas+%E2%9C%85;Machine+Learning+%F0%9F%94%84;AI+Applications+%F0%9F%94%84" />
+<img src="https://img.shields.io/badge/Python-Primary%20Language-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-App%20Building-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 
 </div>
 
@@ -142,127 +168,183 @@ Making repetitive work disappear.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=800&color=00E5FF&center=true&vCenter=true&width=850&lines=%F0%9F%94%AC+EXPERIMENTING;%F0%9F%94%A8+BUILDING;%F0%9F%90%9B+DEBUGGING;%F0%9F%9A%80+DEPLOYING;%F0%9F%94%81+IMPROVING" />
+<table>
+<tr>
 
-</div>
-
----
+<td width="50%" valign="top">
 
 ## 🤖 AI JOB APPLICATION COPILOT
 
-<div align="center">
+**Resume → AI Analysis → Career Insights**
 
-<img src="https://media.giphy.com/media/5Lmn42BCOy99RaGRP7/giphy.gif" width="180"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=700&color=2563EB&center=true&vCenter=true&width=750&lines=Resume+%E2%9E%9C+Job+Description;%E2%86%93;AI+Analysis;%E2%86%93;Match+Score+%2B+Missing+Skills;%E2%86%93;Interview+Preparation+%F0%9F%9A%80" />
-
-<br>
-
-An AI-powered tool designed to help job seekers understand and improve their resume.
+📊 Match Score
+🔍 Missing Skills
+📝 Resume Improvements
+🎤 Interview Questions
 
 <br>
-
-<img src="https://img.shields.io/badge/📊%20MATCH%20SCORE-ANALYSIS-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🔍%20SKILLS-GAP%20DETECTION-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🎤%20INTERVIEW-QUESTIONS-059669?style=for-the-badge" />
-
-<br><br>
 
 <a href="https://github.com/alirazasaleem-1/ai-job-application-copilot">
-<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/💻%20CODE-181717?style=for-the-badge&logo=github" />
 </a>
-&nbsp;
+
 <a href="https://ai-job-application-copilot-nstaz4xyxukezxvqgezxyb.streamlit.app/">
-<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🚀%20DEMO-2563EB?style=for-the-badge" />
 </a>
 
-</div>
+</td>
 
----
+<td width="50%" valign="top">
 
 ## 📈 GITHUB PROFILE ANALYZER
 
-<div align="center">
+**GitHub Profile → Analysis → Insights**
 
-<img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="180"/>
+🔍 Profile Analysis
+📊 Repository Insights
+⚡ Activity Data
+📋 Developer Overview
 
 <br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=700&color=7C3AED&center=true&vCenter=true&width=750&lines=GitHub+Profile+%E2%9E%9C+Analysis;%E2%86%93;Repositories;%E2%86%93;Activity;%E2%86%93;Developer+Insights+%F0%9F%93%8A" />
-
-<br>
-
-A CLI tool for analyzing GitHub profiles and discovering useful developer insights.
-
-<br><br>
 
 <a href="https://github.com/alirazasaleem-1/github-profile-analyzer">
-<img src="https://img.shields.io/badge/💻%20VIEW%20PROJECT-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/💻%20VIEW%20CODE-181717?style=for-the-badge&logo=github" />
 </a>
 
-</div>
+</td>
 
----
+</tr>
 
-## 🎮 SNAKE WATER GUN BATTLE ARENA
+<tr>
 
-<div align="center">
+<td width="50%" valign="top">
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="180"/>
+## 🎮 SNAKE WATER GUN
+
+**Classic Game → Interactive Experience**
+
+🎮 Multi-round Gameplay
+🏆 Score Tracking
+⚡ Streamlit Interface
 
 <br>
 
-🎮 Multi-round gameplay   •   🏆 Score tracking   •   ⚡ Interactive experience
-
-<br><br>
-
 <a href="https://github.com/alirazasaleem-1/snake-water-gun">
-<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/💻%20CODE-181717?style=for-the-badge&logo=github" />
 </a>
-&nbsp;
+
 <a href="https://snake-water-gun-emjswwxyqzq737zba3s9ic.streamlit.app/">
-<img src="https://img.shields.io/badge/🎮%20PLAY%20LIVE-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🎮%20PLAY-7C3AED?style=for-the-badge" />
 </a>
 
-</div>
+</td>
 
----
+<td width="50%" valign="top">
 
 ## 🎓 CAMPUSKIT
 
-<div align="center">
+**Student Needs → Digital Tools**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=00E5FF&center=true&vCenter=true&width=750&lines=Student+Productivity+Tools;%F0%9F%93%84+PDF+Utilities;%F0%9F%8E%93+Academic+Helpers;%E2%9A%99%EF%B8%8F+Digital+Tools" />
+📄 PDF Utilities
+🎓 Academic Helpers
+⚙️ Productivity Tools
 
-<br><br>
+<br>
 
 <a href="https://github.com/alirazasaleem-1/Campus-Kit">
-<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/💻%20CODE-181717?style=for-the-badge&logo=github" />
 </a>
-&nbsp;
+
 <a href="https://alirazasaleem0000.pythonanywhere.com/">
-<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🚀%20DEMO-2563EB?style=for-the-badge" />
 </a>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 📊 GITHUB COMMAND CENTER
+# 📊 DEVELOPER DASHBOARD
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alirazasaleem-1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=alirazasaleem-1&show_icons=true&rank_icon=github&hide_border=true&theme=transparent" width="100%" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirazasaleem-1&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirazasaleem-1&layout=compact&hide_border=true&theme=transparent" width="100%" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=alirazasaleem-1&theme=tokyonight&hide_border=true" width="100%" />
+<img src="https://streak-stats.demolab.com?user=alirazasaleem-1&hide_border=true&theme=transparent" width="100%" />
+
+</div>
+
+---
+
+# 🏆 ACHIEVEMENTS UNLOCKED
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🎓
+
+**BSCS**
+
+Computer Science Student
+
+</td>
+
+<td align="center" width="25%">
+
+### 🐍
+
+**PYTHON**
+
+Building Real Projects
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**AI / ML**
+
+Currently Exploring
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌐
+
+**PUBLIC**
+
+Learning in Public
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🧭 THE JOURNEY
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=7C3AED&center=true&vCenter=true&width=800&lines=%F0%9F%8E%93+Student;%E2%86%92;%F0%9F%90%8D+Python+Developer;%E2%86%92;%E2%9A%99%EF%B8%8F+Automation+Builder;%E2%86%92;%F0%9F%93%8A+ML+Explorer;%E2%86%92;%F0%9F%A4%96+AI+Builder;%E2%86%92;%F0%9F%9A%80+Product+Builder" />
 
 </div>
 
@@ -272,13 +354,47 @@ A CLI tool for analyzing GitHub profiles and discovering useful developer insigh
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=00FF88&center=true&vCenter=true&width=850&lines=%5B+SYSTEM+STATUS+%5D;%E2%9C%85+Learning+%3A+ONLINE;%E2%9C%85+Building+%3A+ONLINE;%E2%9C%85+Improving+%3A+ONLINE;%E2%9A%A1+Giving+Up+%3A+NOT+FOUND" />
+<table>
+<tr>
 
-<br><br>
+<td align="center">
 
-<img src="https://img.shields.io/badge/🧠%20LEARNING-ONLINE-00FF88?style=for-the-badge" />
-<img src="https://img.shields.io/badge/💻%20BUILDING-ONLINE-00FF88?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🚀%20DREAMING-BIG-00E5FF?style=for-the-badge" />
+🧠 **LEARNING**
+
+🟢 ONLINE
+
+</td>
+
+<td align="center">
+
+💻 **BUILDING**
+
+🟢 ONLINE
+
+</td>
+
+<td align="center">
+
+📢 **SHARING**
+
+🟢 ONLINE
+
+</td>
+
+<td align="center">
+
+🚀 **DREAMING**
+
+🟢 ONLINE
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00A86B&center=true&vCenter=true&width=700&lines=%5B+SYSTEM+CHECK+%5D;%E2%9C%85+Curiosity+%3A+ACTIVE;%E2%9C%85+Learning+%3A+ACTIVE;%E2%9C%85+Building+%3A+ACTIVE;%E2%9C%85+Giving+Up+%3A+NOT+FOUND" />
 
 </div>
 
@@ -288,7 +404,7 @@ A CLI tool for analyzing GitHub profiles and discovering useful developer insigh
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=FF6719&center=true&vCenter=true&width=800&lines=Writing+about+code+%F0%9F%92%BB;Writing+about+growth+%F0%9F%A7%A0;Writing+about+productivity+%E2%9A%A1;Documenting+the+journey+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=FF6719&center=true&vCenter=true&width=700&lines=Code+%F0%9F%92%BB;Growth+%F0%9F%A7%A0;Productivity+%E2%9A%A1;Life+as+a+CS+Student+%F0%9F%8E%93;Documenting+the+journey+%F0%9F%9A%80" />
 
 <br><br>
 
@@ -326,10 +442,12 @@ A CLI tool for analyzing GitHub profiles and discovering useful developer insigh
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Keep+learning+%F0%9F%A7%A0;Keep+building+%F0%9F%92%BB;Keep+improving+%F0%9F%9A%80;See+you+in+the+next+commit+%F0%9F%91%8B" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Keep+learning+%F0%9F%A7%A0;Keep+building+%F0%9F%92%BB;Keep+improving+%F0%9F%9A%80;See+you+in+the+next+commit+%F0%9F%91%8B" />
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,25:7C3AED,50:2563EB,75:06B6D4,100:22C55E&height=180&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
