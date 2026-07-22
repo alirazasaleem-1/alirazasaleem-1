@@ -30,26 +30,6 @@
 
 ---
 
-## 🔥 My Streaks
-
-<div align="center">
-
-| Habit                | Current Streak |
-| -------------------- | -------------: |
-| 🐍 Coding / Building |     🔥 09 Days |
-| 🤖 Machine Learning  |     🔥 03 Days |
-| 📝 Writing           |     🔥 06 Days |
-| 🌐 LinkedIn          |     🔥 08 Days |
-| 🎥 YouTube           |     🔥 05 Days |
-| 📖 Quran             |     🔥 07 Days |
-| 🧠 Self-Improvement  |    🔥 158 Days |
-
-</div>
-
-> **Small daily actions. Compounded over years.**
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
