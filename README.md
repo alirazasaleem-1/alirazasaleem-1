@@ -20,11 +20,11 @@
 
 ---
 
-## 🧭 What I'm Doing
+## 🧭 Currently
 
 * 🐍 Building with **Python**
-* 🤖 Exploring **AI & Machine Learning**
-* ⚡ Automating repetitive work
+* 🤖 Learning **AI & Machine Learning**
+* ⚡ Automating repetitive tasks
 * 🚀 Building practical projects
 * 🌐 Learning in public
 
@@ -42,29 +42,11 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Job Application Copilot
-
-Resume analysis tool powered by AI.
-
-**Match Score • Missing Skills • Resume Improvements • Interview Questions**
-
-[View Code](https://github.com/alirazasaleem-1/ai-job-application-copilot) • [Live Demo](https://ai-job-application-copilot-nstaz4xyxukezxvqgezxyb.streamlit.app/)
-
----
-
-### 📈 GitHub Profile Analyzer
-
-Analyze GitHub profiles and generate useful developer insights.
-
-[View Code](https://github.com/alirazasaleem-1/github-profile-analyzer)
-
----
-
-### 🎓 CampusKit
-
-A collection of useful digital tools for students.
-
-[View Code](https://github.com/alirazasaleem-1/Campus-Kit) • [Live Demo](https://alirazasaleem0000.pythonanywhere.com/)
+| Project                                                                                        | Description                                             |
+| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| 🤖 [AI Job Application Copilot](https://github.com/alirazasaleem-1/ai-job-application-copilot) | AI-powered resume and job description analysis          |
+| 📈 [GitHub Profile Analyzer](https://github.com/alirazasaleem-1/github-profile-analyzer)       | Analyze GitHub profiles and generate developer insights |
+| 🎓 [CampusKit](https://github.com/alirazasaleem-1/Campus-Kit)                                  | Digital tools built for students                        |
 
 ---
 
@@ -72,13 +54,13 @@ A collection of useful digital tools for students.
 
 <div align="center">
 
+<img src="https://streak-stats.demolab.com?user=alirazasaleem-1&hide_border=true&theme=transparent" width="85%" />
+
+<br><br>
+
 <img src="https://github-readme-stats.vercel.app/api?username=alirazasaleem-1&show_icons=true&hide_border=true&theme=transparent" width="49%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirazasaleem-1&layout=compact&hide_border=true&theme=transparent" width="49%" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=alirazasaleem-1&hide_border=true&theme=transparent" width="70%" />
 
 </div>
 
