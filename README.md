@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Ali Raza
+# 👋 Hi, I'm Ali Raza Saleem
 
 ### Python Developer • AI/ML Learner • Automation Builder
 
@@ -22,11 +22,11 @@
 
 ## 🧭 Currently
 
-* 🐍 Building with **Python**
-* 🤖 Learning **AI & Machine Learning**
+* 🐍 Building applications with **Python**
+* 🤖 Exploring **Artificial Intelligence & Machine Learning**
 * ⚡ Automating repetitive tasks
-* 🚀 Building practical projects
-* 🌐 Learning in public
+* 🚀 Building practical software projects
+* 🌐 Learning and building in public
 
 ---
 
@@ -34,7 +34,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,pandas,sklearn,streamlit,git,github,html,css,js,vscode&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,pandas,scikitlearn,streamlit,git,github,html,css,js,vscode&perline=6" />
 
 </div>
 
@@ -42,11 +42,29 @@
 
 ## 🚀 Featured Projects
 
-| Project                                                                                        | Description                                             |
-| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| 🤖 [AI Job Application Copilot](https://github.com/alirazasaleem-1/ai-job-application-copilot) | AI-powered resume and job description analysis          |
-| 📈 [GitHub Profile Analyzer](https://github.com/alirazasaleem-1/github-profile-analyzer)       | Analyze GitHub profiles and generate developer insights |
-| 🎓 [CampusKit](https://github.com/alirazasaleem-1/Campus-Kit)                                  | Digital tools built for students                        |
+### 🤖 AI Job Application Copilot
+
+AI-powered tool for analyzing resumes against job descriptions.
+
+**Match Score • Missing Skills • Resume Improvements • Interview Questions**
+
+[View Code](https://github.com/alirazasaleem-1/ai-job-application-copilot) • [Live Demo](https://ai-job-application-copilot-nstaz4xyxukezxvqgezxyb.streamlit.app/)
+
+---
+
+### 📈 GitHub Profile Analyzer
+
+Analyze GitHub profiles and generate useful developer insights.
+
+[View Code](https://github.com/alirazasaleem-1/github-profile-analyzer)
+
+---
+
+### 🎓 CampusKit
+
+A collection of useful digital tools built for students.
+
+[View Code](https://github.com/alirazasaleem-1/Campus-Kit) • [Live Demo](https://alirazasaleem0000.pythonanywhere.com/)
 
 ---
 
@@ -54,7 +72,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=alirazasaleem-1&hide_border=true&theme=transparent" width="85%" />
+<img src="https://streak-stats.demolab.com?user=alirazasaleem-1&hide_border=true&theme=transparent" width="90%" />
 
 <br><br>
 
