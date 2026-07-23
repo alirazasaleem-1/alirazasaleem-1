@@ -32,11 +32,21 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+### 🤖 AI & Machine Learning
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,pandas,scikitlearn,streamlit,git,github,html,css,js,vscode&perline=6" />
+**Python** • **Pandas** • **Scikit-learn**
 
-</div>
+### ⚡ Backend & Applications
+
+**FastAPI** • **Streamlit**
+
+### 🛠️ Tools
+
+**Git** • **GitHub** • **VS Code**
+
+### 🌐 Web
+
+**HTML** • **CSS** • **JavaScript**
 
 ---
 
@@ -71,6 +81,10 @@ A collection of useful digital tools built for students.
 ## 📊 GitHub Activity
 
 <div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alirazasaleem-1&hide_border=true&area=true&theme=github-compact" width="100%" />
+
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=alirazasaleem-1&hide_border=true&theme=transparent" width="90%" />
 
