@@ -10,9 +10,11 @@
   <a href="https://alirazasaleem-1.github.io/ali-raza-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge" />
   </a>
+
   <a href="https://www.linkedin.com/in/ali-raza-saleem-9906323a1/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://www.fiverr.com/s/KerVD8V">
     <img src="https://img.shields.io/badge/Hire_Me-00C853?style=for-the-badge" />
   </a>
@@ -20,9 +22,28 @@
 
 </div>
 
+
 ---
 
-# 🔥 GitHub Streak
+# 👨‍💻 About Me
+
+I am a **Computer Science student** passionate about building practical solutions with:
+
+- 🐍 Python
+- 🤖 Artificial Intelligence
+- 📊 Machine Learning
+- ⚙️ Automation
+
+Currently focused on creating AI-powered applications, improving my engineering skills, and sharing my learning journey through projects and content.
+
+**My philosophy:**
+
+> Learn → Build → Share → Improve → Repeat 🔁
+
+
+---
+
+# 🔥 GitHub Contribution Streak
 
 <div align="center">
 
@@ -30,9 +51,12 @@
 
 </div>
 
+> Consistency matters. Every commit is a small step towards becoming a better developer 🚀
+
+
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -42,7 +66,9 @@
 
 </div>
 
+
 <br>
+
 
 <div align="center">
 
@@ -50,49 +76,81 @@
 
 </div>
 
+
 ---
 
 # 🚀 Featured Projects
 
+
 ## 🤖 AI Job Application Copilot
 
-AI-powered application that compares resumes with job descriptions and generates:
+An AI-powered application that helps job seekers improve their applications.
 
-- ✅ Match Score
-- ✅ Missing Skills
-- ✅ Resume Improvements
-- ✅ Interview Questions
+Features:
 
-**Repository:**  
+- ✅ Resume & Job Description Matching
+- ✅ Skill Gap Analysis
+- ✅ Resume Improvement Suggestions
+- ✅ Interview Question Generation
+
+
+**Repository**
+
 https://github.com/alirazasaleem-1/ai-job-application-copilot
 
-**Live Demo:**  
+
+**Live Demo**
+
 https://ai-job-application-copilot-nstaz4xyxukezxvqgezxyb.streamlit.app/
 
+
 ---
+
 
 ## 📈 GitHub Profile Analyzer
 
-Analyze GitHub profiles and generate useful developer insights.
+A tool that analyzes GitHub profiles and provides developer insights.
 
-**Repository:**  
+Features:
+
+- Developer statistics
+- Repository analysis
+- Profile insights
+
+
+**Repository**
+
 https://github.com/alirazasaleem-1/github-profile-analyzer
 
+
 ---
+
 
 ## 🎓 CampusKit
 
-A collection of practical tools built for students.
+A collection of practical tools designed for students.
 
-**Repository:**  
+Features:
+
+- Student utilities
+- Productivity tools
+- Learning resources
+
+
+**Repository**
+
 https://github.com/alirazasaleem-1/Campus-Kit
 
-**Live Demo:**  
+
+**Live Demo**
+
 https://alirazasaleem0000.pythonanywhere.com/
+
 
 ---
 
-# 💻 Tech Stack
+# 🛠️ Tech Stack
+
 
 ### Languages
 
@@ -101,22 +159,28 @@ https://alirazasaleem0000.pythonanywhere.com/
 - CSS
 - JavaScript
 
+
 ### AI / Machine Learning
 
-- Pandas
 - NumPy
+- Pandas
 - Scikit-learn
+- TensorFlow
+
 
 ### Frameworks
 
 - FastAPI
 - Streamlit
 
+
 ### Tools
 
 - Git
 - GitHub
 - VS Code
+- Jupyter Notebook
+
 
 ---
 
@@ -124,13 +188,29 @@ https://alirazasaleem0000.pythonanywhere.com/
 
 - Artificial Intelligence
 - Machine Learning
-- Python Automation
 - Deep Learning
-- Building AI Projects
+- Python Automation
+- Building Real-World AI Applications
+
+
+---
+
+# 📚 Learning Journey
+
+I believe in building publicly and improving every day.
+
+Currently working on:
+
+- 🤖 AI/ML projects
+- 🐍 Python automation
+- 📖 Technical writing
+- 🎥 Educational content creation
+
 
 ---
 
 # 🌐 Connect With Me
+
 
 <div align="center">
 
@@ -141,7 +221,9 @@ https://alirazasaleem0000.pythonanywhere.com/
 <a href="https://x.com/AliRazaCreates">X</a> •
 <a href="https://www.instagram.com/alirazasaleem62/">Instagram</a>
 
+
 <br><br>
+
 
 **Learn → Build → Share → Improve → Repeat 🔁**
 
