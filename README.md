@@ -1,34 +1,33 @@
-```markdown
 <div align="center">
 
 # 👋 Hi, I'm Ali Raza Saleem
 
 ### 🚀 Python Developer • AI/ML Learner • Automation Builder
 
-🎓 **BS Computer Science Student**  
+🎓 **BS Computer Science Student**
 **University of Agriculture Faisalabad, Pakistan 🇵🇰**
 
-Passionate about building AI-powered applications, Python automation tools, and solving real-world problems with technology.
+Passionate about building AI-powered applications, Python automation tools, and solving real-world problems through technology.
 
 <p align="center">
   <a href="https://github.com/alirazasaleem-1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
   <a href="https://www.linkedin.com/in/alirazasaleem-cs/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
   <a href="https://alirazasaleem099.substack.com/">
-    <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"/>
   </a>
 
   <a href="https://x.com/AliRazaCreates">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=alirazasaleem-1&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=alirazasaleem-1&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -36,9 +35,15 @@ Passionate about building AI-powered applications, Python automation tools, and 
 
 # 👨‍💻 About Me
 
-I'm a Computer Science student who enjoys building practical software with **Python, Artificial Intelligence, Machine Learning, and Automation**.
+I'm a **BS Computer Science** student passionate about building practical software with:
 
-I believe the best way to learn is by building real-world projects, sharing what I learn, and improving every day.
+* 🐍 Python
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning
+* ⚙️ Automation
+* 🌐 Web Applications
+
+I enjoy solving real-world problems through code and continuously improving my engineering skills by building projects and learning in public.
 
 > **Learn → Build → Share → Improve → Repeat 🔁**
 
@@ -48,7 +53,7 @@ I believe the best way to learn is by building real-world projects, sharing what
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=alirazasaleem-1&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=alirazasaleem-1&theme=transparent&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -58,9 +63,9 @@ I believe the best way to learn is by building real-world projects, sharing what
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alirazasaleem-1&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=alirazasaleem-1&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirazasaleem-1&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirazasaleem-1&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
 
 </div>
 
@@ -68,7 +73,7 @@ I believe the best way to learn is by building real-world projects, sharing what
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alirazasaleem-1&theme=github-compact&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alirazasaleem-1&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph"/>
 
 </div>
 
@@ -78,22 +83,22 @@ I believe the best way to learn is by building real-world projects, sharing what
 
 ## 🤖 AI Job Application Copilot
 
-AI-powered web application that helps job seekers improve their applications using artificial intelligence.
+An AI-powered web application that helps job seekers create stronger applications.
 
 ### Features
 
-- Resume & Job Description Matching
-- Skill Gap Analysis
-- Resume Improvement Suggestions
-- AI Interview Question Generation
+* ✅ Resume & Job Description Matching
+* ✅ Skill Gap Analysis
+* ✅ Resume Improvement Suggestions
+* ✅ AI Interview Question Generation
 
 **Repository**
 
-https://github.com/alirazasaleem-1/ai-job-application-copilot
+🔗 https://github.com/alirazasaleem-1/ai-job-application-copilot
 
 **Live Demo**
 
-https://ai-job-application-copilot-nstaz4xyxukezxvqgezxyb.streamlit.app/
+🌐 https://ai-job-application-copilot-nstaz4xyxukezxvqgezxyb.streamlit.app/
 
 ---
 
@@ -103,73 +108,85 @@ Analyze GitHub profiles and generate useful developer insights.
 
 ### Features
 
-- Repository Statistics
-- Language Analysis
-- Developer Insights
+* Developer Statistics
+* Repository Analysis
+* Language Analysis
+* Profile Insights
 
 **Repository**
 
-https://github.com/alirazasaleem-1/github-profile-analyzer
+🔗 https://github.com/alirazasaleem-1/github-profile-analyzer
 
 ---
 
 ## 🎓 CampusKit
 
-A collection of practical tools built to make student life easier.
+A collection of practical tools built for students.
 
 ### Features
 
-- Student Utilities
-- Productivity Tools
-- Learning Resources
+* Student Utilities
+* Productivity Tools
+* Learning Resources
 
 **Repository**
 
-https://github.com/alirazasaleem-1/Campus-Kit
+🔗 https://github.com/alirazasaleem-1/Campus-Kit
 
 **Live Demo**
 
-https://alirazasaleem0000.pythonanywhere.com/
+🌐 https://alirazasaleem0000.pythonanywhere.com/
 
 ---
 
 # 🛠️ Tech Stack
 
-### Languages
+## 💻 Languages
 
-- Python
-- HTML
-- CSS
-- JavaScript
+* Python
+* HTML
+* CSS
+* JavaScript
 
-### AI & Machine Learning
+## 🤖 AI & Machine Learning
 
-- NumPy
-- Pandas
-- Scikit-learn
-- TensorFlow
+* NumPy
+* Pandas
+* Scikit-learn
+* TensorFlow
 
-### Frameworks
+## ⚡ Frameworks
 
-- FastAPI
-- Streamlit
+* FastAPI
+* Streamlit
 
-### Tools
+## 🧰 Tools
 
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
+* Git
+* GitHub
+* VS Code
+* Jupyter Notebook
 
 ---
 
 # 🌱 Currently Learning
 
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Python Automation
-- AI Engineering
+* Artificial Intelligence
+* Machine Learning
+* Deep Learning
+* Python Automation
+* AI Engineering
+* Building Real-World AI Applications
+
+---
+
+# 🎯 Current Focus
+
+* 🤖 Building AI Projects
+* 🐍 Python Automation
+* 📖 Technical Writing
+* 🎥 Educational Content Creation
+* 🚀 Growing as an AI Engineer
 
 ---
 
@@ -177,14 +194,14 @@ https://alirazasaleem0000.pythonanywhere.com/
 
 <div align="center">
 
-| Platform | Link |
-|-----------|------|
-| 💻 GitHub | https://github.com/alirazasaleem-1 |
-| 💼 LinkedIn | https://www.linkedin.com/in/alirazasaleem-cs/ |
-| ✍️ Substack | https://alirazasaleem099.substack.com/ |
-| 📸 Instagram | https://www.instagram.com/alirazasaleem62/ |
-| 🎵 TikTok | https://www.tiktok.com/@alirazasaleem27 |
-| 🐦 X (Twitter) | https://x.com/AliRazaCreates |
+| 🌐 Platform    | 🔗 Link                                       |
+| -------------- | --------------------------------------------- |
+| 💻 GitHub      | https://github.com/alirazasaleem-1            |
+| 💼 LinkedIn    | https://www.linkedin.com/in/alirazasaleem-cs/ |
+| ✍️ Substack    | https://alirazasaleem099.substack.com/        |
+| 📸 Instagram   | https://www.instagram.com/alirazasaleem62/    |
+| 🎵 TikTok      | https://www.tiktok.com/@alirazasaleem27       |
+| 🐦 X (Twitter) | https://x.com/AliRazaCreates                  |
 
 </div>
 
@@ -192,11 +209,10 @@ https://alirazasaleem0000.pythonanywhere.com/
 
 <div align="center">
 
-### ⭐ Thanks for visiting!
+### ⭐ Thanks for visiting my profile!
 
-If you enjoy my work, consider giving a ⭐ to my repositories.
+If you find my projects useful, consider giving them a ⭐.
 
-**Learn → Build → Share → Improve → Repeat 🔁**
+### **Learn → Build → Share → Improve → Repeat 🔁**
 
 </div>
-```
