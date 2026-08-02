@@ -1,45 +1,52 @@
+```markdown
 <div align="center">
 
 # 👋 Hi, I'm Ali Raza Saleem
 
 ### Python Developer • AI/ML Learner • Automation Builder
 
-**BS Computer Science Student @ University of Agriculture Faisalabad**
+🎓 **BS Computer Science Student**  
+University of Agriculture Faisalabad, Pakistan 🇵🇰
+
+Building practical AI applications, Python automation tools, and sharing my learning journey in public.
 
 <p>
-  <a href="https://alirazasaleem-1.github.io/ali-raza-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge" />
-  </a>
 
-  <a href="https://www.linkedin.com/in/ali-raza-saleem-9906323a1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="https://alirazasaleem-1.github.io/ali-raza-portfolio/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-2563EB?style=for-the-badge" />
+</a>
 
-  <a href="https://www.fiverr.com/s/KerVD8V">
-    <img src="https://img.shields.io/badge/Hire_Me-00C853?style=for-the-badge" />
-  </a>
+<a href="https://github.com/alirazasaleem-1">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/alirazasaleem-cs/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </p>
+
+![](https://komarev.com/ghpvc/?username=alirazasaleem-1&style=for-the-badge)
 
 </div>
 
-
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-I am a **Computer Science student** passionate about building practical solutions with:
+I'm a Computer Science student passionate about solving real-world problems with technology.
+
+### I enjoy building with
 
 - 🐍 Python
 - 🤖 Artificial Intelligence
-- 📊 Machine Learning
+- 🧠 Machine Learning
 - ⚙️ Automation
+- 🌐 Web Applications
 
-Currently focused on creating AI-powered applications, improving my engineering skills, and sharing my learning journey through projects and content.
+Currently focused on improving my engineering skills through real projects and consistent learning.
 
-**My philosophy:**
-
-> Learn → Build → Share → Improve → Repeat 🔁
-
+> **Learn → Build → Share → Improve → Repeat 🔁**
 
 ---
 
@@ -47,12 +54,11 @@ Currently focused on creating AI-powered applications, improving my engineering 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=alirazasaleem-1&theme=transparent&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=alirazasaleem-1&theme=transparent&hide_border=true"/>
 
 </div>
 
-> Consistency matters. Every commit is a small step towards becoming a better developer 🚀
-
+> Every meaningful commit is one step closer to becoming a great engineer.
 
 ---
 
@@ -66,9 +72,7 @@ Currently focused on creating AI-powered applications, improving my engineering 
 
 </div>
 
-
 <br>
-
 
 <div align="center">
 
@@ -76,81 +80,67 @@ Currently focused on creating AI-powered applications, improving my engineering 
 
 </div>
 
-
 ---
 
 # 🚀 Featured Projects
 
-
 ## 🤖 AI Job Application Copilot
 
-An AI-powered application that helps job seekers improve their applications.
+AI-powered application that helps job seekers create stronger applications.
 
-Features:
+### Features
 
-- ✅ Resume & Job Description Matching
-- ✅ Skill Gap Analysis
-- ✅ Resume Improvement Suggestions
-- ✅ Interview Question Generation
+- Resume & Job Description Matching
+- Skill Gap Analysis
+- Resume Improvement Suggestions
+- AI Interview Question Generation
 
-
-**Repository**
-
+🔗 Repository  
 https://github.com/alirazasaleem-1/ai-job-application-copilot
 
-
-**Live Demo**
-
+🌐 Live Demo  
 https://ai-job-application-copilot-nstaz4xyxukezxvqgezxyb.streamlit.app/
 
-
 ---
-
 
 ## 📈 GitHub Profile Analyzer
 
-A tool that analyzes GitHub profiles and provides developer insights.
+Analyze any GitHub profile and discover useful developer insights.
 
-Features:
+### Features
 
-- Developer statistics
-- Repository analysis
-- Profile insights
+- Repository Statistics
+- Language Analysis
+- Contribution Insights
+- Developer Summary
 
-
-**Repository**
+🔗 Repository
 
 https://github.com/alirazasaleem-1/github-profile-analyzer
 
-
 ---
-
 
 ## 🎓 CampusKit
 
-A collection of practical tools designed for students.
+A collection of useful tools built specifically for students.
 
-Features:
+### Features
 
-- Student utilities
-- Productivity tools
-- Learning resources
+- Productivity Utilities
+- Student Tools
+- Learning Resources
 
-
-**Repository**
+🔗 Repository
 
 https://github.com/alirazasaleem-1/Campus-Kit
 
-
-**Live Demo**
+🌐 Live Demo
 
 https://alirazasaleem0000.pythonanywhere.com/
 
-
 ---
 
-# 🛠️ Tech Stack
-
+# 🛠 Tech Stack
 
 ### Languages
 
@@ -159,28 +149,24 @@ https://alirazasaleem0000.pythonanywhere.com/
 - CSS
 - JavaScript
 
-
-### AI / Machine Learning
+### AI & Machine Learning
 
 - NumPy
 - Pandas
 - Scikit-learn
 - TensorFlow
 
-
 ### Frameworks
 
 - FastAPI
 - Streamlit
 
-
-### Tools
+### Developer Tools
 
 - Git
 - GitHub
 - VS Code
 - Jupyter Notebook
-
 
 ---
 
@@ -190,41 +176,45 @@ https://alirazasaleem0000.pythonanywhere.com/
 - Machine Learning
 - Deep Learning
 - Python Automation
-- Building Real-World AI Applications
-
+- LLM Applications
+- AI Engineering
 
 ---
 
-# 📚 Learning Journey
+# 📚 What I'm Working On
 
-I believe in building publicly and improving every day.
-
-Currently working on:
-
-- 🤖 AI/ML projects
-- 🐍 Python automation
-- 📖 Technical writing
-- 🎥 Educational content creation
-
+- 🤖 AI Applications
+- ⚙️ Python Automation
+- 📖 Technical Writing
+- 🎥 Educational Content
+- 🚀 Building My Developer Portfolio
 
 ---
 
 # 🌐 Connect With Me
 
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 💼 LinkedIn | https://www.linkedin.com/in/alirazasaleem-cs/ |
+| 💻 GitHub | https://github.com/alirazasaleem-1 |
+| ✍️ Substack | https://alirazasaleem099.substack.com/ |
+| 📸 Instagram | https://www.instagram.com/alirazasaleem62/ |
+| 🎵 TikTok | https://www.tiktok.com/@alirazasaleem27 |
+| 🐦 X (Twitter) | https://x.com/AliRazaCreates |
+
+</div>
+
+---
 
 <div align="center">
 
-<a href="https://alirazasaleem-1.github.io/ali-raza-portfolio/">Portfolio</a> •
-<a href="https://www.linkedin.com/in/ali-raza-saleem-9906323a1/">LinkedIn</a> •
-<a href="https://alirazasaleem099.substack.com/">Substack</a> •
-<a href="https://www.youtube.com/@AliRaza.Self-Improvement">YouTube</a> •
-<a href="https://x.com/AliRazaCreates">X</a> •
-<a href="https://www.instagram.com/alirazasaleem62/">Instagram</a>
+### ⭐ Thanks for visiting!
 
-
-<br><br>
-
+If you like my work, consider giving a ⭐ to my repositories.
 
 **Learn → Build → Share → Improve → Repeat 🔁**
 
 </div>
+```
