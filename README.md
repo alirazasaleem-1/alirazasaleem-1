@@ -4,7 +4,7 @@
 
 ### 🚀 Python Developer • AI/ML Learner • Automation Builder
 
-🎓 **BS Computer Science Student**
+🎓 **BS Computer Science Student**  
 **University of Agriculture Faisalabad, Pakistan 🇵🇰**
 
 Passionate about building AI-powered applications, Python automation tools, and solving real-world problems through technology.
@@ -63,9 +63,9 @@ I enjoy solving real-world problems through code and continuously improving my e
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alirazasaleem-1&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=alirazasaleem-1&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirazasaleem-1&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirazasaleem-1&layout=compact&langs_count=8&theme=transparent&hide_border=true"/>
 
 </div>
 
@@ -99,6 +99,28 @@ An AI-powered web application that helps job seekers create stronger application
 **Live Demo**
 
 🌐 https://ai-job-application-copilot-nstaz4xyxukezxvqgezxyb.streamlit.app/
+
+---
+
+## 🎤 Speech Emotion Recognition
+
+A deep learning application that predicts human emotions from speech using a CNN model trained on the RAVDESS dataset.
+
+### Features
+
+* 🎙️ Speech Emotion Recognition
+* 🧠 CNN-based Deep Learning Model
+* 📊 MFCC Audio Feature Extraction
+* 🌐 Interactive Streamlit Web App
+* ⚡ Real-Time Emotion Prediction
+
+**Repository**
+
+🔗 https://github.com/alirazasaleem-1/CodeAlpha_SpeechEmotionRecognition
+
+**Live Demo**
+
+🌐 https://codealphaspeechemotionrecognition-sipj33pveheg9cgniu9lsw.streamlit.app/
 
 ---
 
@@ -194,14 +216,14 @@ A collection of practical tools built for students.
 
 <div align="center">
 
-| 🌐 Platform    | 🔗 Link                                       |
-| -------------- | --------------------------------------------- |
-| 💻 GitHub      | https://github.com/alirazasaleem-1            |
-| 💼 LinkedIn    | https://www.linkedin.com/in/alirazasaleem-cs/ |
-| ✍️ Substack    | https://alirazasaleem099.substack.com/        |
-| 📸 Instagram   | https://www.instagram.com/alirazasaleem62/    |
-| 🎵 TikTok      | https://www.tiktok.com/@alirazasaleem27       |
-| 🐦 X (Twitter) | https://x.com/AliRazaCreates                  |
+| 🌐 Platform | 🔗 Link |
+|-------------|---------|
+| 💻 GitHub | https://github.com/alirazasaleem-1 |
+| 💼 LinkedIn | https://www.linkedin.com/in/alirazasaleem-cs/ |
+| ✍️ Substack | https://alirazasaleem099.substack.com/ |
+| 📸 Instagram | https://www.instagram.com/alirazasaleem62/ |
+| 🎵 TikTok | https://www.tiktok.com/@alirazasaleem27 |
+| 🐦 X (Twitter) | https://x.com/AliRazaCreates |
 
 </div>
 
