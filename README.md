@@ -210,7 +210,7 @@ A collection of practical tools built for students.
 - Deep Learning
 - Python Automation
 - AI Engineering
-- Building Real-World AI Applications
+- Building Real-World AI Applications.
 
 ---
 
